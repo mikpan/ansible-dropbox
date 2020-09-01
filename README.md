@@ -5,10 +5,6 @@
 
 Set up [Dropbox](https://www.dropbox.com/) in Debian-like systems.
 
-#### Requirements
-
-* `curl` (will be installed)
-
 #### Variables
 
 * `dropbox_version` [default: `2020.03.04`]: Version to install

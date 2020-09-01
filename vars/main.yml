@@ -1,8 +1,6 @@
 # vars file for dropbox
 ---
-dropbox_dependencies:
-  - curl
-dropbox_downloads_path: /var/lib/ansible/dropbox/downloads
+dropbox_downloads_path: /tmp/dropbox/downloads
 dropbox_machine_map:
   i686: 386
   i386: 386
